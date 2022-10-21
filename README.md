@@ -17,6 +17,3 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
-
-![cali_fornia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorodong96&show_icons=true&theme=vision-friendly-dark)
-
