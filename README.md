@@ -29,7 +29,7 @@
 
 ## 📲 Contact
 
-[<img src="https://img.shields.io/badge/dk143496@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/dk143496@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:dk143496@gmail.com)
 [<img src="https://img.shields.io/badge/Dongkyu Kim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/cali-kim/)
 [<img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://cali-log.oopy.io/)
 [<img src="https://img.shields.io/badge/Dorodong96-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/Dorodong96)
